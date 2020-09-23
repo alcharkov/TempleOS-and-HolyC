@@ -28,7 +28,9 @@ RIP Terry Davis
   * Place cursor over file, hit enter
   * Menu pops up -> Include -> spacebar
   * OR ```#include "C:/FilePath/SomeFile.HC.Z";```
-
+* Work with Disk drivers ([source](https://www.youtube.com/watch?v=DBGgi5Lqn0U))
+  * Show disk drives ```DrvRep;```
+  * Change drive ```Drv('B')'```
 
 ## Sources
 * Intro + Changing Wallpaper in TempleOS https://www.youtube.com/watch?v=JIw4vPdv5X4
